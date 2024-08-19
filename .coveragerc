@@ -1,0 +1,9 @@
+[run]
+source = hydrafs
+data_file = __build__/test/.coverage
+
+[html]
+directory = __build__/test/htmlcov
+
+[xml]
+output = __build__/test/coverage.xml
