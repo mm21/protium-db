@@ -1,0 +1,5 @@
+# Tests file models with a specific order
+model2_2:
+  order:
+    - "model2_2-1"
+    - "model2_2-0"
